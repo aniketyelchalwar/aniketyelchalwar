@@ -1,4 +1,4 @@
-![logo](https://github.com/aniketyelchalwar/Aniket_Yelchalwar/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
+![logo](https://github.com/aniketyelchalwar/aniketyelchalwar/edit/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aniket Yelchalwar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
